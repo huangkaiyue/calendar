@@ -1,0 +1,40 @@
+<view class='mian'>
+  <view class='one'>
+    <view class='one-time'>2018-11-01</view>
+    <view class='one-img'>
+      <image class='img' src='../../image/06.png'></image>
+    </view>
+    <view class='one-img'>
+      <image class='img' src='../../image/06.png'></image>
+    </view>
+    <view class='one-img'>
+      <image class='img' src='../../image/06.png'></image>
+    </view>
+  </view>
+  
+  <view class='line_view'>
+  
+  </view>
+     <view class='two-text'>{{calendarText}}</view>
+     <view class='two-authr'>{{calendarAuthr}}</view>
+  <view class='line_view'>
+  </view>
+
+  <view class='thr'>
+    <view class='thr-img'>
+      <image class='img' src='../../image/06.png'></image>
+    </view>
+    <view class='thr-img'>
+      <image class='img' src='../../image/06.png'></image>
+    </view>
+  </view>
+
+  <view class='four'>
+    <view class='four-img'>
+      <image class='img' src='../../image/06.png'></image>
+    </view>
+    <view class='four-audio'>
+      <audio controls loop></audio>
+    </view>
+  </view>
+</view>
